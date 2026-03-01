@@ -1,4 +1,2 @@
-C:/Users/aryan/OneDrive/Desktop/NLP/Amazon_sentiment/Data/Reviews.csv filter=lfs diff=lfs merge=lfs -text
-C:/Users/aryan/OneDrive/Desktop/NLP/Amazon_sentiment/Data/database.sqlite filter=lfs diff=lfs merge=lfs -text
 Data/Reviews.csv filter=lfs diff=lfs merge=lfs -text
 Data/database.sqlite filter=lfs diff=lfs merge=lfs -text
