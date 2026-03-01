@@ -1,0 +1,9 @@
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+tqdm
+transformers
+scipy
