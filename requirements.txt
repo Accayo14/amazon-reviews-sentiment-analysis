@@ -7,3 +7,6 @@ nltk
 tqdm
 transformers
 scipy
+pytorch 
+torchvision 
+torchaudio
